@@ -47,70 +47,112 @@ The project has following features:
 **Landing Page**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(77).png)
 
+
+
 **Login with validation**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(78).png)
+
+
 
 **Registration with validation**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(79).png)
 
+
+
 **Dashboard**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(80).png)
+
+
 
 **Add money (directly or if gift cards available)**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(81).png)
 
+
+
 **Validation in add money**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(82).png)
+
+
 
 **Succes sweet alert 2 on adding money**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(83).png)
 
+
+
 **Added money using gift cards**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(84).png)
+
+
 
 **My Transactions**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(85).png)
 
+
+
 **Send Money**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(86).png)
+
+
 
 **Generate Voucher (admin)**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(88).png)
 
+
+
 **Redeem Voucher**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(87).png)
+
+
 
 **Success Redeem**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(89).png)
 
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(90).png)
 
+
+
 **Send Gift Card (Sent to Pawan Kumar user)**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(91).png)
+
+
 
 **Gift Card Received by Pawan Kumar User**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(92).png)
 
+
+
 **Schedule Payment**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(96).png)
+
 
 Run schedule
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(95).png)
 
-Schedule transaction has been processed and removed
+
+Schedule transaction has been processed and removed (March 29, 2020 has been removed)
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(97).png)
+
+
 
 **Loan Request**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(98).png)
 
+
+
 **Approve Request (loan request received by admin)**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(100).png)
+
+
 
 **Loan Request Approved**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(103).png)
 
+
+
 **Change profile settings**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(104).png)
+
+
 
 **Changed Picture**
 ![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(105).png)
